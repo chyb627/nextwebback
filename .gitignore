@@ -1,5 +1,6 @@
 .DS_Store
 
+config/
 node_modules/
 log/
 # src/test.js
