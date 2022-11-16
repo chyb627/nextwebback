@@ -1,8 +1,8 @@
 .DS_Store
 
-config/
 node_modules/
 log/
 # src/test.js
+.env
 *.sh
 package-lock.json
