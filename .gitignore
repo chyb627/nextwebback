@@ -1,6 +1,6 @@
 .DS_Store
 
-config/
+.env
 node_modules/
 log/
 # src/test.js
