@@ -39,6 +39,10 @@ create table [테이블명] (
     [컬럼명] [type],
 )
 
+- root계정 비밀번호 변경
+
+ alter user 'root'@'localhost' identified with mysql_native_password by '[password]';
+
 # sequelize sequelize-cli mysql2
 
 npm i sequelize sequelize-cli mysql2
