@@ -7,3 +7,5 @@ log/
 .env
 *.sh
 package-lock.json
+.next/*
+*.pem
